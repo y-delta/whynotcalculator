@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d4e9c18f81812b9164236859fa31484",
+    "revision": "882930b9d31ce5c464e8186e4aef281a",
     "url": "/whynotcalculator/index.html"
   },
   {
-    "revision": "dda9d5df23eb3e8d0ac2",
+    "revision": "26d50d09dded15af4712",
     "url": "/whynotcalculator/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whynotcalculator/static/js/2.e2f82d03.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dda9d5df23eb3e8d0ac2",
-    "url": "/whynotcalculator/static/js/main.aa310915.chunk.js"
+    "revision": "26d50d09dded15af4712",
+    "url": "/whynotcalculator/static/js/main.c11c4950.chunk.js"
   },
   {
     "revision": "d86cd8d8544b49b54702",

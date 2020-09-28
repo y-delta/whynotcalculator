@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/whynotcalculator/static/css/main.5f361e03.chunk.css",
-    "main.js": "/whynotcalculator/static/js/main.aa310915.chunk.js",
-    "main.js.map": "/whynotcalculator/static/js/main.aa310915.chunk.js.map",
+    "main.js": "/whynotcalculator/static/js/main.c11c4950.chunk.js",
+    "main.js.map": "/whynotcalculator/static/js/main.c11c4950.chunk.js.map",
     "runtime-main.js": "/whynotcalculator/static/js/runtime-main.ec10ccfe.js",
     "runtime-main.js.map": "/whynotcalculator/static/js/runtime-main.ec10ccfe.js.map",
     "static/js/2.e2f82d03.chunk.js": "/whynotcalculator/static/js/2.e2f82d03.chunk.js",
     "static/js/2.e2f82d03.chunk.js.map": "/whynotcalculator/static/js/2.e2f82d03.chunk.js.map",
     "index.html": "/whynotcalculator/index.html",
-    "precache-manifest.683319ec011c0d741f2fdcca75815b49.js": "/whynotcalculator/precache-manifest.683319ec011c0d741f2fdcca75815b49.js",
+    "precache-manifest.45a8d6cc4d658c056c65f9f1f8f8e896.js": "/whynotcalculator/precache-manifest.45a8d6cc4d658c056c65f9f1f8f8e896.js",
     "service-worker.js": "/whynotcalculator/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/whynotcalculator/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.e2f82d03.chunk.js.LICENSE.txt": "/whynotcalculator/static/js/2.e2f82d03.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ec10ccfe.js",
     "static/js/2.e2f82d03.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.aa310915.chunk.js"
+    "static/js/main.c11c4950.chunk.js"
   ]
 }
